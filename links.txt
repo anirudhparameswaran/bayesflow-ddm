@@ -9,3 +9,5 @@ BayesFlow installation: https://github.com/bayesflow-org/bayesflow/blob/main/REA
 Research Article code & data: https://osf.io/r7dzv/files/osfstorage
 
 Research Article: https://link.springer.com/article/10.1007/s42113-020-00074-y#Tab4
+
+Diffusion Decision Model details: https://link.springer.com/chapter/10.1007/978-3-031-45271-0_4
